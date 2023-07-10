@@ -1,2 +1,2 @@
 # CLIP-Coreml
-OpenAI CLIP coreml version for iOS text-image embeddings, image search, image clustering, image classifiy
+OpenAI CLIP coreML version for iOS text-image embeddings, image search, image clustering, image classifiy
